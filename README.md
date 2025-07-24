@@ -4,17 +4,17 @@
 Analyzing demographic, lifestyle, and medical patterns to identify key triggers, symptoms, and correlates of panic attacks using behavioral and physiological data.
 
 # Dashboard
-Dashboard Link: Panic Attack Data Analysis.pbix
+Dashboard Link: https://github.com/Sangeeta2804/Panic-Attack-Analysis/blob/main/Panic%20Attack%20Data%20Analysis.pbix
     
 
 # Snapshots Link (Power BI Desktop)
 
-Snapshot_1:Panic_Attack_Data Analysis_page-0001.jpg
-Snapshot_2:Panic_Attack_Data Analysis_page-0002.jpg
-Snapshot_3:Panic_Attack_Data Analysis_page-0003.jpg
+Snapshot_1:https://github.com/Sangeeta2804/Panic-Attack-Analysis/blob/main/Panic_Attack_Data%20Analysis_page-0001.jpg
+Snapshot_2:https://github.com/Sangeeta2804/Panic-Attack-Analysis/blob/main/Panic_Attack_Data%20Analysis_page-0002.jpg
+Snapshot_3:https://github.com/Sangeeta2804/Panic-Attack-Analysis/blob/main/Panic_Attack_Data%20Analysis_page-0003.jpg
 
 # Project Dataset
-  Dataset Link: panic_attack_dataset.csv
+  Dataset Link: https://github.com/Sangeeta2804/Panic-Attack-Analysis/blob/main/panic_attack_dataset.csv
 
 # Project Overview:
 
@@ -47,7 +47,7 @@ DIVIDE
 
 4. Medical History: PTSD and depression drive higher panic scores than anxiety alone.
 
-5.  **Lifestyle Impact:**
+5.  Lifestyle Impact:
 
 a). Smokers and non-medicated individuals tend to score 2–3 points higher.
 
