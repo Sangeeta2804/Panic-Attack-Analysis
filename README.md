@@ -47,14 +47,14 @@ DIVIDE
 
 4. Medical History: PTSD and depression drive higher panic scores than anxiety alone.
 
-5.  Lifestyle Impact:
+5. Lifestyle Impact:
 
-a). Smokers and non-medicated individuals tend to score 2–3 points higher.
+    a). Smokers and non-medicated individuals tend to score 2–3 points higher.
 
-b)  Low sleep hours (<5 hrs) strongly correlate with panic severity.
+    b)  Low sleep hours (<5 hrs) strongly correlate with panic severity.
 
-c). Regular therapy lowers panic scores even in high-trigger populations.
+    c). Regular therapy lowers panic scores even in high-trigger populations.
 
-d). Physiological Data: Heart rates >140 bpm regularly align with panic scores ≥8.
+6. hysiological Data: Heart rates >140 bpm regularly align with panic scores ≥8.
 
 
